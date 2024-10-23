@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color:#187942 ;
+
+}
+.card-container{
+    
+    
+    
+    text-align: center;
+    margin-top: 302px;
+    
+    
+    
+}
+.card{
+    width: 33.2%;
+    height: 312px;
+    background-color: rgb(237, 230, 216);
+    justify-content: center;
+    text-align: left;
+left: 15cm;
+    bottom: 5cm;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    
+    
+    
+
+}
+    
+
+    
+
+.content{
+    padding: 20px;
+    justify-content: center;
+    
+}
+
+
+.content button{
+    padding: 20px 20px;
+    font-size: 20px;
+    color:#187942   ;
+    background-color: #f7f030; 
+    border: transparent;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 6px;    
+    width: 190px;
+    font-weight: bold;
+    
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+    
+    
+    
+}
+.content button:hover {
+    background-color: whitesmoke; 
+}
+
+
+.content a{
+    color:#187942 ;
+    text-decoration: none;
+}
+.content h3{
+    
+    font-size:20px ;
+    margin-bottom: 30px;
+    color: rgb(16, 16, 16);
+}
+.content  ol li{
+align-items: center;
+color:rgba(13, 16, 15, 0.925);
+    font-size: 15px;
+    line-height: 2;
+    margin-left: 20px;
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.content .btn1{
+    display: inline-block;
+    padding: 8px 16px ;
+    background-color:wheat;
+    text-decoration: wheat;
+    border-radius: 4px;
+    margin-top: 13px;
+    color: #187942 ;
+    border-style: solid;
+    border-width: 0.04cm;
+    margin-left: 200px;
+    font-weight: bold;
+}
+.content .btn{
+    display: inline-block;
+    padding: 8px 16px ;
+    background-color:#187942 ;
+    text-decoration: #187942 ;
+    border-radius: 4px;
+    margin-top: 13px;
+    color: wheat;
+    font-weight: bold;
+    margin: 3px;
+    
+    
+}
+span{
+    color: #187942 ;
+    font-weight: bold;
+}
+.move{
+    background-color:transparent;
+    width: 73vh;
+    height: 10vh;
+    position: absolute;
+    top: 1px;
+    margin-left: -8.55px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    
+    
+}
+.content .btn:hover{
+    color: rgb(107, 193, 110);
+}
+.content .btn1:hover{
+    color:  rgb(107, 193, 110);
+}
+
